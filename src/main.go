@@ -1,8 +1,6 @@
 package main
 
-import "fmt"
-
-func main() {
+/*func main() {
 
 	//Declaracion de constantes con tipo de dato
 	const coordenada_x int = 0
@@ -36,4 +34,4 @@ func main() {
 	var d bool
 
 	fmt.Println(a, b, c, d)
-}
+}*/
